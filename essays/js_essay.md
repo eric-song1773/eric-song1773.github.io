@@ -9,7 +9,6 @@ labels:
 ---
  
   <img class="ui medium center floated rounded image" src="../images/js-image.jpg">
-  
 ## Simplicity of JS in comparison of Java
   
   Programming beginners can be confusing when it comes to finding the difference between JavaScript and Java, due to the similarity of the title.
