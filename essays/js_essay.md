@@ -7,7 +7,7 @@ labels:
   - Software Engineering
   - Learning
 ---
-  # Perspective on JavaScript After Coming From Learning Java
+  # JavaScript: From the Perspective From a Java Programmer
   
   ## Simplicity of JS in comparison of Java
   Programming beginners can be confusing when it comes to finding the difference between JavaScript and Java, due to the similarity of the title.
