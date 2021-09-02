@@ -9,6 +9,8 @@ labels:
 ---
   # JavaScript: From the Perspective From a Java Programmer
   
+  <img class="ui medium right floated rounded image" src="../images/js-image.png">
+  
   ## Simplicity of JS in comparison of Java
   
   Programming beginners can be confusing when it comes to finding the difference between JavaScript and Java, due to the similarity of the title.
