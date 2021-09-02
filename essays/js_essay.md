@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: JavaScript: From the Perspective From a Java Programmer
+title: JavaScript, From the Perspective From a Java Programmer
 date: 2021-09-01
 labels:
   - Software Engineering
