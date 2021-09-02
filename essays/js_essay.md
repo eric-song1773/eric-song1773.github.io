@@ -7,7 +7,8 @@ labels:
   - Software Engineering
   - Learning
 ---
-  ## JavaScript: From the Perspective From a Java Programmer
+ 
+ ## JavaScript: From the Perspective From a Java Programmer
   
   <img class="ui medium center floated rounded image" src="../images/js-image.jpg">
   
