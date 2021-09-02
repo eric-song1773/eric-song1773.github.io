@@ -9,7 +9,7 @@ labels:
 ---
   # JavaScript: From the Perspective From a Java Programmer
   
-  <img class="ui medium center floated rounded image" src="../images/js-image.png">
+  <img class="ui medium center floated rounded image" src="../images/js-image.jpg">
   
   ## Simplicity of JS in comparison of Java
   
