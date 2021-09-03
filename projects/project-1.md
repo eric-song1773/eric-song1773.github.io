@@ -14,7 +14,7 @@ summary: For the final project for ICS 111, I created a variant of Tic-Tac-Toe, 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/ittt-image.PNG">
+  <img size = "large" class="ui image" src="../images/ittt-image.PNG">
 </div>
 
 Inverse Tic-Tac-Toe (ITTT) is a variant of the game Tic-Tac-Toe we know of. Unlike the traditional Tic-Tac-Toe, which is a two player game where the player that can create 3 in
