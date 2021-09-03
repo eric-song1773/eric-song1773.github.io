@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Inverse Tic-Tac-Tpe
+permalink: projects/ITTT
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-12-03
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Video Game
+  - Programming
+  - Java
+summary: For the final project for ICS 111, I created a variant of Tic-Tac-Toe, the Inverse Tic-Tac-Toe.
 ---
 
 <div class="ui small rounded images">
