@@ -5,7 +5,7 @@ image: images/sudoku-image.PNG
 title: Recursive Sudoku Solver
 permalink: projects/sudoku
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2021-03-27
 labels:
   - Java
   - Programming
