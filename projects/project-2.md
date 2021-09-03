@@ -15,9 +15,12 @@ summary: A sudoku solver using recursion method.
 
 <img class="ui medium right floated rounded image" src="../images/sudoku-image.PNG">
 
-This project was done with the help from Professor Cam Moore and collaboration from my classmates, Jonathan M., Londy T., Christine N., and Jake H.
 For one of the projects in ICS 211, I was able to create a sudoku solver using recursion and divide-and-conquer method. The program will take partially filled 
-sudokus and brute forces the set of possible numbers that can be filled out, in order to the complete the sudoku. Java Eclipse IDE was used for this project.
+sudokus and brute forces the set of possible numbers that can be filled out, in order to the complete the sudoku. Java Eclipse IDE was used for this project. It was more of everyone working together
+
+This project was done with the help from Professor Cam Moore and collaboration from my classmates, Jonathan M., Londy T., Christine N., and Jake H. Everyone worked together on one function at a time and helped each other out.
+
+This project allowed me to realize the importance of collaboration, as the project was a lot more efficient with separating the job and helping each other out and learning from the help at the same time. 
 
 Here is one of the major code used to create a recursive sudoku solver.
 
