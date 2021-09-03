@@ -10,7 +10,7 @@ labels:
   - Programming
 ---
  
-  <img class="ui medium center floated rounded image" src="../images/js-image.jpg">
+  <img class="ui medium center floated rounded image" src="../images/software-dev-image.jpg">
 
 ## My Interest In Video Game Industry
   
