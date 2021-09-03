@@ -9,6 +9,7 @@ date: 2020-12-02
 labels:
   - Java
   - Card Game
+  - Programming
 summary: A text-based blackjack game made for one of the final projects I've done in ICS 111.
 ---
 <img class="ui medium right floated rounded image" src="../images/blackjack-image.PNG">
