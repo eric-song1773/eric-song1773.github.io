@@ -21,30 +21,25 @@ Here are some of the codes I have used to create text-based blackjack.
 
 ```Java
 // Calculating the Value of Dealer's card
-				for (int i = 0; i < dealerHand.size(); i++) {
-					Card c = dealerHand.get(i);
+for (int i = 0; i < dealerHand.size(); i++) {
+	Card c = dealerHand.get(i);
+		if ((c.getRank() == 1)) {
+			dealerAceCount++;
+		}
 
-					if ((c.getRank() == 1)) {
-						dealerAceCount++;
-					}
-
-					if ((c.getRank() != 1)) {
-						dealerValue += c.getRank();
-					}
-				}
-				if (dealerAceCount > 0) {
-
-					for (int i = 1; i <= dealerAceCount; i++) {
-
-						if (dealerValue + 11 > 21) {
-							dealerValue++;
-						}
-
-						else {
-							dealerValue += 11;
-						}
-					}
-				}
+		if ((c.getRank() != 1)) {
+			dealerValue += c.getRank();
+		}
+}
+if (dealerAceCount > 0) {
+	for (int i = 1; i <= dealerAceCount; i++) {
+		if (dealerValue + 11 > 21) {
+			dealerValue++;
+		} else {
+			dealerValue += 11;
+		}
+	}
+}
 ```
 
 
