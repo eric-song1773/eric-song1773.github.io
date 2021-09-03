@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/blackjack-image.PNG
 title: Text-Based Blackjack
 permalink: projects/blackjack
 # All dates must be YYYY-MM-DD format!
@@ -11,7 +11,7 @@ labels:
   - Card Game
 summary: A text-based blackjack game made for one of the final projects I've done in ICS 111.
 ---
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/blackjack-image.PNG">
 
 Text-based black is one of the final projects I have done for ICS 111. My version of blackjack is meant to be played on the console log of Java Eclipse IDE.
 The game features all the major features of the traditional blackjack, such as stand, hit, double-down, split hand, etc.
