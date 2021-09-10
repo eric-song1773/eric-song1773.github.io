@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: There Are No Dumb Questions, But There Are Ways To Ask Smart Questions
-date: 2021-09-02
+date: 2021-09-09
 labels:
   - Software Engineering
   - Learning
