@@ -10,7 +10,7 @@ labels:
   - Video Game
   - Programming
   - Java
-summary: For the final project for ICS 111, I created a variant of Tic-Tac-Toe, the Inverse Tic-Tac-Toe.
+summary: For the final project for ICS 111, I created a variant of Tic-Tac-Toe, the Inverse Tic-Tac-Toe(ITT). Playing this game with purpose of losing on regular Tic-Tac-Toe will lead to winning instead.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/ittt-image.PNG">
@@ -20,9 +20,10 @@ a row first before the opponent wins the game, the ITTT is the complete opposite
 
 Because the project was only done by myself, the entire programming and GUI design was entirely done by myself. The TA of ICS 111, Jesse Mcdonald's help was also included to finish the project.
 
-From this project, I learned how difficult it is to develop a good looking GUI that will be catering to the consumers. During this project, creating a simple GUI with simple line took quite amount of time, which made me think how complex and difficult will it be to create a top quality GUI. 
+From this project, I learned how difficult it is to develop a good looking GUI that will be catering to the consumers. During this project, creating a simple GUI with a simple line took quite amount of time, which made me think how complex and difficult it would be to create a top quality GUI. One of the things that I felt very passionate about this project was being able to significantly reduce the amount of code to draw the shape through modeling the coordinates of where the shape should be drawn and calculating the formula for it, instead of manually writing the exact coordinate it needed to be in. 
 
-Here is some example of the code I used for ITTT:
+Here is some example of the code I used for ITTT, which is code that I used to optimize the drawing of the shapes (diamonds and squares) based on which part of the 3x3 grid is clicked:
+
 ```Java 
 // Drawing the player's Symbol
 			for (int i = 0; i < 3; i++) {
