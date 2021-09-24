@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: There Are No Dumb Questions, But There Are Ways To Ask Smart Questions
+title: Universal Standards Are Essential, And Programming Is No Exception
 date: 2021-09-23
 labels:
   - Software Engineering
