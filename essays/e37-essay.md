@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: UI Framework: A Handy-Dandy Tool, But Should Everyone Use It?
+title: UI Framework, A Handy-Dandy Tool, But Should Everyone Use It?
 date: 2021-10-07
 labels:
   - Software Engineering
