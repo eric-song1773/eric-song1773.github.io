@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: Universal Standards Are Essential, And Programming Is No Exception
-date: 2021-09-23
+title: UI Framework: A Handy-Dandy Tool, But Should Everyone Use It?
+date: 2021-10-07
 labels:
   - Software Engineering
   - Web Development
