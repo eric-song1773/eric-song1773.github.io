@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: UI Framework, A Handy-Dandy Tool, But Should Everyone Use It?
+title: The List of Solutions Made by Programmers In The Past
 date: 2021-12-02
 labels:
   - Software Engineering
@@ -39,8 +39,7 @@ called MVC.
 
 Design pattern is a very strong concept that can be utilized to help our way through as a software engineer. However, instead of searching for what design pattern to use
 for this problem, it is essential to understand the factors that has to be considered when it comes to handling the issue, and why these design pattern recommended are 
-considered to be effective for this specific set of problems. Becoming a good programmer is not about how fast you can come up with writing codes. It is about how critically thinking
-about how to solve a problem using a variety of techniques, while understanding how the techniques utilized works and its effectiveness.
+considered to be effective for this specific set of problems. Becoming a good programmer is not about how fast you can come up with writing codes. It is about how critically thinking about how to solve a problem using a variety of techniques, while understanding how the techniques utilized works and its effectiveness.
 
 
 
