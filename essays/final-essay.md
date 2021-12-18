@@ -43,7 +43,7 @@ standard, ESLint definitely helped me a lot, to the point where it felt "wrong" 
 ESLint disabled. As I would be working with multiple group of people in the future, I think it is safe to say that
 I have developed a good habit from this experience. 
 
-## The Software Engineering Journey Will Never Ends
+## The Software Engineering Journey Will Never End
 
 Being a software engineer cannot just end with being "done" with studying soft engineering. Although the software
 engineering techniques I was able to learn from ICS 314 was definitely an astonishing experience, but this is only
