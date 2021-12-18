@@ -52,8 +52,12 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
+        "JavaScript",
         "HTML/CSS",
+        "Meteor",
+        "MongoDB",
+        "React",
+        "Semantic UI",
       ]
     }
   ],
