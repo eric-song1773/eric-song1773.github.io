@@ -22,13 +22,13 @@ roommates to thrive throughout the school semester in UH Manoa together.
 
 ## My Contribution in Roomniverse
 
-<img class="ui medium right floated rounded image" src="../images/FINDRM.PNG">
-
 One of the main contributions I made to the development of Roomniverse was implementing the feature of filtering the request data using the dropdown menu as a sorting option.
 The implement at first looked simple at first, but it was a lot more complicated in the process, such as assigning unique values in the dropdown field. I was able to 
 solve the problem by using switch statement so that the program filters out the data based on which options in the dropdown menu is selected, 
 and render out that specific data only to the user. I also spent my contribution towards implementing testcafe for all features made in the program, so confirm there are no
 existings errors when deploying the web application to the internet. 
+
+<img class="ui medium right floated rounded image" src="../images/FINDRM.PNG">
 
 ## Reflection on Roomniverse
 
