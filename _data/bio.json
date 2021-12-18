@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "Software Development",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
@@ -42,7 +42,7 @@
       "name": "Artificial Intelligence",
       "keywords": [
       ]
-    }
+    },
   ],
   "skills": [
     {
@@ -53,6 +53,7 @@
         "C++",
         "Java",
         "Javascript",
+        "HTML/CSS",
       ]
     }
   ],
