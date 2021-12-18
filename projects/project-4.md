@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/blackjack-image1.PNG
+image: images/LANDING.PNG
 title: Roomniverse
 permalink: projects/roomniverse
 # All dates must be YYYY-MM-DD format!
@@ -14,13 +14,15 @@ labels:
   - Software Engineering
 summary: A Website created specifically for helping UH students finding roommates suitable for them. 
 ---
-<img class="ui medium right floated rounded image" src="../images/blackjack-image.PNG">
+<img class="ui medium right floated rounded image" src="../images/LANDING.PNG">
 
 Roomniverse is a creation by a group formed in the class of ICS 314, including myself, Ju-Bin Choi, Jon Valencia, Tracy Bui, and Scott Vore. This project was my first
 experience with using JavaScript, HTML/CC to create a fullly functioning website, which provides a helping experience to those who are having issues with finding
 roommates to thrive throughout the school semester in UH Manoa together. 
 
 ## My Contribution in Roomniverse
+
+<img class="ui medium right floated rounded image" src="../images/FINDRM.PNG">
 
 One of the main contribution I made to the development of Roomniverse was implementing the feature of filtering the request data using dropdown menu as a sorting option.
 The implement at first looked simple at first, but it was a lot more complicated in the process, such as assigning unique values in the dropdown field. I was able to 
