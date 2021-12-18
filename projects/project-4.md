@@ -14,7 +14,7 @@ labels:
   - Software Engineering
 summary: A Website created specifically for helping UH students find roommates suitable for them. 
 ---
-
+<img class="ui medium right floated rounded image" src="../images/LANDING.PNG">
 
 Roomniverse is a creation by a group formed in the class of ICS 314, including myself, Ju-Bin Choi, Jon Valencia, Tracy Bui, and Scott Vore. This project was my first
 experience with using JavaScript, HTML/CC to create a fully functioning website, which provides a helping experience to those who are having issues with finding
